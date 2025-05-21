@@ -1,0 +1,88 @@
+body {
+    margin: 5%;
+    padding: 5%;
+    background-color: hwb(49 67% 6%);
+}
+
+.name {
+    margin: 20px;
+    height: 200px;
+    background-color: hwb(147 22% 52%);
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    left: 18%;
+    bottom: 70;
+
+}
+.p-2 {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    left:18%;
+    bottom: 60%;
+    
+    
+}
+
+img {
+    margin: 30px;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 69%;
+
+}
+
+.perfil_profesional {
+    margin: 20px;
+    height: 200px;
+    background-color: hwb(147 22% 52%);
+    padding: 2%;
+}
+h2 { 
+    color: white;
+    text-align: center;
+    
+}
+.p-cont {
+    color: black;
+    font-size: 18px;
+}
+
+.formacion_academica {
+    margin: 20px;
+    
+    height: 260px;
+    background-color: hwb(147 22% 52%);
+
+}
+
+.experiencia_laboral{
+    margin: 20px;
+    height: 670px;;
+    background-color: hwb(147 22% 52%);
+}
+li {
+    font-size: 17px; 
+}
+
+.two {
+    display: flex;
+    flex-direction: row;
+    
+    
+
+}
+
+.habilidades, .idiomas{
+    margin: 20px;
+    width: 100%;
+    padding: 10px;
+    background-color: hwb(147 22% 52%);
+}
+
+
